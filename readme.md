@@ -6,15 +6,15 @@ This is a polling system API built using Node.js and mongodb database. It allows
 
 To set up the project on your local system, follow these steps:
 
-1. Clone the repository from GitHub: git clone https://github.com/DigvijayDheer/Polling_System_API.git
+1. Clone the repository from GitHub: `git clone https://github.com/DigvijayDheer/Polling_System_API.git`
 
-2. Navigate to the project directory: cd polling-system-api
+2. Navigate to the project directory: `cd polling-system-api`
 
-3. Install the dependencies: npm install
+3. Install the dependencies: `npm install`
 
 4. Set up the mongodb and configure the connection in the `.env` file.
 
-5. Start the server: npm start
+5. Start the server: `npm start`
 
 ## Folder Structure
 
